@@ -1,7 +1,7 @@
 {
-    "host": "45.142.104.10",
+    "host": "",
     "port": 3306,
-    "datenbank": "Nexo_Scorfy54485_sanicy",
-    "user": "Nexo_Scorfy54485_sanicy",
-    "password": "Nexo_Scorfy54485_sanicy"
+    "datenbank": "",
+    "user": "",
+    "password": ""
 }
